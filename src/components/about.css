@@ -1,0 +1,7 @@
+.about__me-image {
+  transform: rotate(0deg);
+}
+.about__me-image:hover {
+  transform: rotate(6deg);
+  transition: 1s;
+}

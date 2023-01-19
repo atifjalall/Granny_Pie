@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "title": "Granny's Pie",
+    "paragraph": "Family, friends, and delicious food are our top priorities at Granny's Pie"
+  },
+  "About": {
+    "Heading": "Family, friends, and delicious food are our top priorities at Granny's Pie",
+    "paragraph": "Since our clients are our family and friends, we will be enjoying wonderful cuisine with all of you, just like we do with our own family. When you enter into Granny’s Pie, we want you to feel as comfortable as possible and enjoy the best dining experience. Our crew is here to assist you and make you feel as comfortable as possible from the moment you step through our door, regardless of whether you are celebrating with a large group or just a friend while enjoying your favorite food, beverage, or dessert.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Bannoffee",
+      "largeImage": "img/portfolio/bonoffee.jpg",
+      "smallImage": "img/portfolio/bonoffee.jpg",
+      "price": "Rs. 3000"
+    },
+    {
+      "title": "Appilia ",
+      "largeImage": "img/portfolio/applepie.jpg",
+      "smallImage": "img/portfolio/applepie.jpg",
+      "price": "Rs. 4500"
+    },
+    {
+      "title": "Cherio",
+      "largeImage": "img/portfolio/cherio.jpg",
+      "smallImage": "img/portfolio/cherio.jpg",
+      "price": "Rs. 4500"
+    }
+  ],
+  "Home": [
+    {
+      "para1": "Make yourself at home by ordering nice creamy hot fruit pies as your sweet dish after meal. You can learn more about the flavor of authentic fruit pies by ordering them from Granny’s Pie online. You can choose from a wide variety of mouthwatering varieties, some of which are handcrafted in our very own pie bakery."
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mr. Qasim ",
+      "job": "Chairman, Aqua Pura Committee Managing Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mr. Basit Siddique ",
+      "job": "Marketing, Training & Certification Manager"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Miss Liyana ",
+      "job": "Executive General Manager - Operations and Services"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Mr. HabibUllah",
+      "job": "Business Unit Director"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Mrs.Amna Mallick",
+      "job": "Sales & Marketing Head, Aqua Pura "
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Mr. Shayan Ali",
+      "job": "Technical and Sustainability Manager, Aqua Pura"
+    }
+  ]
+}
